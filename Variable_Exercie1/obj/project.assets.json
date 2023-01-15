@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hvh18\\repos\\Variable_Exercie1\\Variable_Exercie1\\Variable_Exercie1.csproj",
-      "projectName": "Variable_Exercie1",
-      "projectPath": "C:\\Users\\hvh18\\repos\\Variable_Exercie1\\Variable_Exercie1\\Variable_Exercie1.csproj",
+      "projectUniqueName": "C:\\Users\\hvh18\\repos\\Variable_Exercie1\\Variable_Exercie1\\Variable_Exercise1.csproj",
+      "projectName": "Variable_Exercise1",
+      "projectPath": "C:\\Users\\hvh18\\repos\\Variable_Exercie1\\Variable_Exercie1\\Variable_Exercise1.csproj",
       "packagesPath": "C:\\Users\\hvh18\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hvh18\\repos\\Variable_Exercie1\\Variable_Exercie1\\obj\\",
       "projectStyle": "PackageReference",
