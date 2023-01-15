@@ -1,0 +1,15 @@
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\obj\Debug\net6.0\Variable_Exercie1.csproj.AssemblyReference.cache
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\obj\Debug\net6.0\Variable_Exercie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\obj\Debug\net6.0\Variable_Exercie1.AssemblyInfoInputs.cache
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\obj\Debug\net6.0\Variable_Exercie1.AssemblyInfo.cs
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\obj\Debug\net6.0\Variable_Exercie1.csproj.CoreCompileInputs.cache
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\bin\Debug\net6.0\Variable_Exercie1.exe
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\bin\Debug\net6.0\Variable_Exercie1.deps.json
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\bin\Debug\net6.0\Variable_Exercie1.runtimeconfig.json
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\bin\Debug\net6.0\Variable_Exercie1.dll
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\bin\Debug\net6.0\Variable_Exercie1.pdb
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\obj\Debug\net6.0\Variable_Exercie1.dll
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\obj\Debug\net6.0\refint\Variable_Exercie1.dll
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\obj\Debug\net6.0\Variable_Exercie1.pdb
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\obj\Debug\net6.0\Variable_Exercie1.genruntimeconfig.cache
+C:\Users\hvh18\repos\Variable_Exercie1\Variable_Exercie1\obj\Debug\net6.0\ref\Variable_Exercie1.dll
